@@ -21,12 +21,28 @@ int dx8[]={0,0,1,1,1,-1,-1,-1}, dy8[]={1,-1,-1,0,1,-1,0,1};
 
 
 
+ll C(int n, int m) {
+    if(m > n) return 0;
+    ll ans = 1;
+    for(int i = 1; i <= m; i++) {
+        ans = ans * (n - i + 1) / i;
+    }
+    return ans;
+}
 
 
 
 inline void solve() {
     int n, m, t; cin >> n >> m >> t;
-    
+    ll ans = 0;
+    for(int i = 1; i <= m; i++) {
+        for(int j = 4; j <= n; j++) {
+            if(i + j == t) {
+                ans += C(m, i) * C(n, j);
+            }
+        }
+    }
+    cout << ans << endl;
     
 }
 
