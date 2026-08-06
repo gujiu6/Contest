@@ -8,7 +8,7 @@ using namespace std;
 #define per(i,r,l) for(int i=r;i>=l;i--)
 #define pb push_back
 #define dbg(x) cout<<#x<<"="<<x<<endl;
-using ll = long long;
+using i64 = long long;
 using ld = long double;
 using ull = unsigned long long;
 using cd = complex<double>;
