@@ -48,7 +48,7 @@
 
 #### 西安
 
-* [比赛名称](链接)
+* [2025西安区域赛](https://qoj.ac/contest/2562)
 
 ### ⭐ 邀请赛
 
@@ -81,7 +81,7 @@
 
 ### 四川
 
-* [2021四川省赛](https://ac.nowcoder.com/acm/contest/17624?channelPut=tracker1)
+* [2021四川省赛][牛客](https://ac.nowcoder.com/acm/contest/17624?channelPut=tracker1)/[qoj](https://qoj.ac/contest/1292)
 
 ### 辽宁
 
