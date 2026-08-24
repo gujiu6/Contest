@@ -77,7 +77,7 @@
 ### 新疆
 
 * [2023新疆省赛](https://ac.nowcoder.com/acm/contest/69555?channelPut=tracker1)
-* [x][2024新疆省赛](https://ac.nowcoder.com/acm/contest/94869?channelPut=tracker1)
+* [2024新疆省赛](https://ac.nowcoder.com/acm/contest/94869?channelPut=tracker1)✅
 
 ### 四川
 
