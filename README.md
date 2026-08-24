@@ -8,7 +8,7 @@
 
 #### 🇨🇳 中国
 
-* [2016CCPC网络赛]([链接](https://acm.hdu.edu.cn/search.php?field=problem&key=2016%D6%D0%B9%FA%B4%F3%D1%A7%C9%FA%B3%CC%D0%F2%C9%E8%BC%C6%BE%BA%C8%FC+-+%CD%F8%C2%E7%D1%A1%B0%CE%C8%FC&source=1&searchmode=source))
+* [2016CCPC网络赛](https://acm.hdu.edu.cn/search.php?field=problem&key=2016%D6%D0%B9%FA%B4%F3%D1%A7%C9%FA%B3%CC%D0%F2%C9%E8%BC%C6%BE%BA%C8%FC+-+%CD%F8%C2%E7%D1%A1%B0%CE%C8%FC&source=1&searchmode=source)
 
 #### 🌍 其他
 
