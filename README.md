@@ -52,7 +52,8 @@
 
 #### 南京
 
-* [2025南京区域赛](https://qoj.ac/contest/1832)
+* [2018南京区域赛](https://qoj.ac/contest/1832)
+* [2025南京区域赛](https://qoj.ac/contest/2581)
 
 ### ⭐ 邀请赛
 
