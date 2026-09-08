@@ -40,6 +40,8 @@
 
 * [2025网络赛](https://qoj.ac/contest/2513)
 
+
+* [2026网络赛](https://qoj.ac/contest/4071)
 #### 🌍 其他
 
 * [比赛名称](链接)
