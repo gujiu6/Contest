@@ -66,24 +66,55 @@ void write(T x){
 
 }
 
-struct custom_hash {
-    static uint64_t splitmix64(uint64_t x) {
+//重量Hash(防Hack)
+class Hash{
+private:
+    static u64 mix(u64 x){
+        // SplitMix64 finalizer：雪崩扰动
         x += 0x9e3779b97f4a7c15ULL;
         x = (x ^ (x >> 30)) * 0xbf58476d1ce4e5b9ULL;
         x = (x ^ (x >> 27)) * 0x94d049bb133111ebULL;
         return x ^ (x >> 31);
     }
-
-    size_t operator()(uint64_t x) const {
-        static const uint64_t seed =
-            chrono::steady_clock::now().time_since_epoch().count();
-        return splitmix64(x + seed);
+    static u64 seed(){
+        static const u64 s = chrono::steady_clock::now().time_since_epoch().count();
+        return s;
+    }
+public:
+    //整数
+    template <class T> requires is_integral_v<T>
+    size_t operator()(T x) const{
+        return mix(static_cast<u64>(x) + seed());
+    }
+    //pair
+    template <class A, class B>
+    size_t operator()(const pair<A, B>& x) const{
+        u64 h1 = (*this)(x.first);
+        u64 h2 = (*this)(x.second);
+        return mix(h1 ^ (h2 << 1));
+    }
+    //tuple<A, B, C>
+    template <class A, class B, class C>
+    size_t operator()(const tuple<A, B, C>& x) const{
+        u64 h1 = (*this)(get<0>(x));
+        u64 h2 = (*this)(get<1>(x));
+        u64 h3 = (*this)(get<2>(x));
+        return mix(h1 ^ (h2 << 1) ^ (h3 << 2));
+    }
+    //array
+    template <class T, size_t N>
+    size_t operator()(const array<T, N>& x) const{
+        u64 h = seed();
+        for (const auto& v : x) {
+            h = mix(h ^ (*this)(v));
+        }
+        return h;
     }
 };
 
 inline void solve() {
     int n = fast::read();
-    unordered_map<int, int, custom_hash> cnt;
+    unordered_map<int, int, Hash> cnt;
     vector<int> small(n + 1);
     for(int i = 1; i <= n; i++) {
         int x = fast::read();
