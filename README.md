@@ -51,8 +51,10 @@
 
 #### 西安
 
+* [2023西安区域赛](https://qoj.ac/contest/1784?v=1)
 * [2025西安区域赛](https://qoj.ac/contest/2562)
 
+* 
 #### 南京
 
 * [2018南京区域赛](https://qoj.ac/contest/1832)
