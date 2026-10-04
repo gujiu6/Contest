@@ -111,6 +111,10 @@
 
 * [2021江西省赛](https://ac.nowcoder.com/acm/contest/21592?channelPut=tracker1)
 
+### 贵州
+
+* [2026贵州省赛](https://qoj.ac/contest/4121)
+
 ---
 
 ## 🟨 杂项
