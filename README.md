@@ -5,6 +5,7 @@
 * [ICPC2025网络赛](https://qoj.ac/contest/2513)
 * [ICPC2026网络赛1](https://qoj.ac/contest/4071)
 * [ICPC2026网络赛2](https://qoj.ac/contest/4113)
+* [CCPC2026网络赛](https://qoj.ac/contest/4128)
 
 #### 西安
 
@@ -60,3 +61,7 @@
 #### 福建
 
 * [CCPC2021江西省赛](https://qoj.ac/contest/3784)
+
+#### 贵州
+
+* [ICPC2026贵州省赛](https://qoj.ac/contest/4121)
