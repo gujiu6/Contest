@@ -48,7 +48,7 @@
 
 #### 河南
 
-* [河南CCPC2021省赛](https://ac.nowcoder.com/acm/contest/17148?channelPut=tracker1)
+* [河南ICPC2021省赛](https://ac.nowcoder.com/acm/contest/17148?channelPut=tracker1)
 
 #### 湖南
 
@@ -56,7 +56,7 @@
 
 #### 江西
 
-* [江西CCPC2021省赛](https://ac.nowcoder.com/acm/contest/21592?channelPut=tracker1)
+* [江西ICPC2021省赛](https://ac.nowcoder.com/acm/contest/21592?channelPut=tracker1)
 
 #### 福建
 
