@@ -38,7 +38,7 @@
 
 #### 四川
 
-* [四川CCPC2021省赛][牛客](https://ac.nowcoder.com/acm/contest/17624?channelPut=tracker1)/[qoj](https://qoj.ac/contest/1292)
+* [四川ICPC2021省赛][牛客](https://ac.nowcoder.com/acm/contest/17624?channelPut=tracker1)/[qoj](https://qoj.ac/contest/1292)
 
 #### 辽宁
 
