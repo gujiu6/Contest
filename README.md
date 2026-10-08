@@ -1,128 +1,62 @@
-<h1 align="center">🏆 ACM / ICPC 比赛链接</h1>
+<h1 align="center">🏆 ACM / XCPC 比赛链接</h1>
 
----
+#### 🌐 网络赛
 
-## 🟥 CCPC
-
-### 🌐 网络赛
-
-#### 🇨🇳 中国
-
-* [2016CCPC网络赛](https://acm.hdu.edu.cn/search.php?field=problem&key=2016%D6%D0%B9%FA%B4%F3%D1%A7%C9%FA%B3%CC%D0%F2%C9%E8%BC%C6%BE%BA%C8%FC+-+%CD%F8%C2%E7%D1%A1%B0%CE%C8%FC&source=1&searchmode=source)
-
-#### 🌍 其他
-
-* [比赛名称](链接)
-
-### 🏟️ 区域赛
+* [ICPC2025网络赛](https://qoj.ac/contest/2513)
+* [ICPC2026网络赛1](https://qoj.ac/contest/4071)
+* [ICPC2026网络赛2](https://qoj.ac/contest/4113)
 
 #### 西安
 
-* [比赛名称](链接)
+* [ICPC2023西安区域赛](https://qoj.ac/contest/1784?v=1)
+* [ICPC2025西安区域赛](https://qoj.ac/contest/2562)
 
-### ⭐ 邀请赛
-
-#### 🇨🇳 中国
-
-* [比赛名称](链接)
-
-#### 🌍 其他
-
-* [比赛名称](链接)
-
----
-
-## 🟦 ICPC
-
-### 🌐 网络赛
-
-#### 🇨🇳 中国
-
-* [2025网络赛](https://qoj.ac/contest/2513)
-
-
-* [2026网络赛1](https://qoj.ac/contest/4071)
-* [2026网络赛2](https://qoj.ac/contest/4113)
-#### 🌍 其他
-
-* [比赛名称](链接)
-
-### 🏟️ 区域赛
-
-#### 西安
-
-* [2023西安区域赛](https://qoj.ac/contest/1784?v=1)
-* [2025西安区域赛](https://qoj.ac/contest/2562)
-
-* 
 #### 南京
 
-* [2018南京区域赛](https://qoj.ac/contest/1832)
-* [2025南京区域赛](https://qoj.ac/contest/2581)
+* [ICPC2018南京区域赛](https://qoj.ac/contest/1832)
+* [ICPC2025南京区域赛](https://qoj.ac/contest/2581)
 
-### ⭐ 邀请赛
+#### 沈阳
 
-#### 🇨🇳 中国
+* [ICPC2026沈阳邀请赛](https://qoj.ac/contest/3945)
 
-* [比赛名称](链接)
+#### 广东
 
-#### 🌍 其他
+* [CCPC2021广东省赛](https://ac.nowcoder.com/acm/contest/17797?channelPut=tracker1)
 
-* [比赛名称](链接)
+#### 广西
 
----
+* [CCPC2023广西省赛](https://ac.nowcoder.com/acm/contest/59040?channelPut=tracker1)
+* [CCPC2025广西省赛](https://ac.nowcoder.com/acm/contest/110811?channelPut=tracker1)
+* [CCPC2026广西省赛](https://ac.nowcoder.com/acm/contest/136164?channelPut=tracker1)
 
-## 🟩 省赛
+#### 新疆
 
-### 广东
+* [CCPC2023新疆省赛](https://ac.nowcoder.com/acm/contest/69555?channelPut=tracker1)
+* [CCPC2024新疆省赛](https://ac.nowcoder.com/acm/contest/94869?channelPut=tracker1)✅
 
-* [2021广东省赛](https://ac.nowcoder.com/acm/contest/17797?channelPut=tracker1)
+#### 四川
 
-### 广西
+* [CCPC2021四川省赛][牛客](https://ac.nowcoder.com/acm/contest/17624?channelPut=tracker1)/[qoj](https://qoj.ac/contest/1292)
 
-* [2023广西省赛](https://ac.nowcoder.com/acm/contest/59040?channelPut=tracker1)
-* [2025广西省赛](https://ac.nowcoder.com/acm/contest/110811?channelPut=tracker1)
-* [2026广西省赛](https://ac.nowcoder.com/acm/contest/136164?channelPut=tracker1)
+#### 辽宁
 
-### 新疆
+* [CCPC2021辽宁省赛](https://ac.nowcoder.com/acm/contest/22352?channelPut=tracker1)
+* [CCPC2022辽宁省赛](https://ac.nowcoder.com/acm/contest/43937?channelPut=tracker1)
+* [CCPC2023辽宁省赛](https://ac.nowcoder.com/acm/contest/68504?channelPut=tracker1)
 
-* [2023新疆省赛](https://ac.nowcoder.com/acm/contest/69555?channelPut=tracker1)
-* [2024新疆省赛](https://ac.nowcoder.com/acm/contest/94869?channelPut=tracker1)✅
+#### 河南
 
-### 四川
+* [CCPC2021河南省赛](https://ac.nowcoder.com/acm/contest/17148?channelPut=tracker1)
 
-* [2021四川省赛][牛客](https://ac.nowcoder.com/acm/contest/17624?channelPut=tracker1)/[qoj](https://qoj.ac/contest/1292)
+#### 湖南
 
-### 辽宁
+* [CCPC2020湖南省赛][牛客](https://ac.nowcoder.com/acm/contest/9699)/[qoj](https://qoj.ac/contest/908)
 
-* [2021辽宁省赛](https://ac.nowcoder.com/acm/contest/22352?channelPut=tracker1)
-* [2022辽宁省赛](https://ac.nowcoder.com/acm/contest/43937?channelPut=tracker1)
-* [2023辽宁省赛](https://ac.nowcoder.com/acm/contest/68504?channelPut=tracker1)
+#### 江西
 
-### 河南
+* [CCPC2021江西省赛](https://ac.nowcoder.com/acm/contest/21592?channelPut=tracker1)
 
-* [2021河南省赛](https://ac.nowcoder.com/acm/contest/17148?channelPut=tracker1)
+#### 福建
 
-### 湖南
-
-* [2020湖南省赛][牛客](https://ac.nowcoder.com/acm/contest/9699)/[qoj](https://qoj.ac/contest/908)
-
-### 江西
-
-* [2021江西省赛](https://ac.nowcoder.com/acm/contest/21592?channelPut=tracker1)
-
-### 贵州
-
-* [2026贵州省赛](https://qoj.ac/contest/4121)
-
----
-
-## 🟨 杂项
-
-### 🏫 校赛
-
-* [比赛名称](链接)
-
-### 📚 其他
-
-* [比赛名称](链接)
+* [CCPC2021江西省赛](https://qoj.ac/contest/3784)
