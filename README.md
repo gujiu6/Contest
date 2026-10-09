@@ -11,6 +11,7 @@
 
 * [西安ICPC2023区域赛](https://qoj.ac/contest/1784?v=1)
 * [西安ICPC2025区域赛](https://qoj.ac/contest/2562)
+* [西安ICPC2026邀请赛](https://qoj.ac/contest/3766?v=1)
 
 #### 南京
 
