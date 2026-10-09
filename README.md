@@ -27,8 +27,8 @@
 
 #### 广西
 
-* [广西CCPC2023省赛](https://ac.nowcoder.com/acm/contest/59040?channelPut=tracker1)
-* [广西CCPC2025省赛](https://ac.nowcoder.com/acm/contest/110811?channelPut=tracker1)
+* [广西CCPC2023省赛][牛客](https://ac.nowcoder.com/acm/contest/59040?channelPut=tracker1)/[qoj](https://qoj.ac/contest/4119)
+* [广西CCPC2025省赛][牛客](https://ac.nowcoder.com/acm/contest/110811?channelPut=tracker1)/[qoj](https://qoj.ac/contest/4120)
 * [广西CCPC2026省赛](https://ac.nowcoder.com/acm/contest/136164?channelPut=tracker1)
 
 #### 新疆
