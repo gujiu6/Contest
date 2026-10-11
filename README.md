@@ -66,3 +66,7 @@
 ## 贵州
 
 * [贵州ICPC2026省赛](https://qoj.ac/contest/4121)
+
+## 哈尔滨
+
+* [哈尔滨CCPC2025区域赛](https://qoj.ac/contest/2575)
