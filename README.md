@@ -54,6 +54,7 @@
 ## 湖南
 
 * [湖南CCPC2020省赛][牛客](https://ac.nowcoder.com/acm/contest/9699)/[qoj](https://qoj.ac/contest/908)
+* [湖南CCPC2023省赛](https://qoj.ac/contest/2008?v=1)
 
 ## 江西
 
@@ -70,3 +71,7 @@
 ## 哈尔滨
 
 * [哈尔滨CCPC2025区域赛](https://qoj.ac/contest/2575)
+
+## 长春
+
+* [长春CCPC2026区域赛](https://qoj.ac/contest/4582)
