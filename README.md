@@ -70,6 +70,7 @@
 
 ## 哈尔滨
 
+* [哈尔滨CCPC2024区域赛](https://qoj.ac/contest/1817)
 * [哈尔滨CCPC2025区域赛](https://qoj.ac/contest/2575)
 
 ## 长春
