@@ -35,7 +35,7 @@
 ## 新疆
 
 * [新疆CCPC2023省赛](https://ac.nowcoder.com/acm/contest/69555?channelPut=tracker1)
-* [新疆CCPC2024省赛](https://ac.nowcoder.com/acm/contest/94869?channelPut=tracker1)✅
+* ✅[新疆CCPC2024省赛](https://ac.nowcoder.com/acm/contest/94869?channelPut=tracker1)
 
 ## 四川
 
